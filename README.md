@@ -1,7 +1,7 @@
-# 📚 Corso di Recupero Java – OOP e Strutture Dati
+# 📚 Corso Java – OOP e Strutture Dati
 
 ## 👨‍🏫 Destinatari
-Studenti del triennio di informatica che devono consolidare le basi della **programmazione orientata agli oggetti (OOP)** e delle **strutture dati in Java**.
+Studenti del triennio di informatica che devono consolidare le basi della **programmazione orientata agli oggetti (OOP)** e delle **strutture dati e algoritmi in Java**.
 
 ---
 
@@ -19,7 +19,7 @@ Studenti del triennio di informatica che devono consolidare le basi della **prog
 
 ---
 
-### 🔷 Modulo 2 – Strutture Dati in Java
+### 🔷 Modulo 2 – Strutture Dati e Algoritmi in Java
 
 | Lezione | Argomento                          | Obiettivi principali |
 |--------|------------------------------------|----------------------|
@@ -46,8 +46,8 @@ Ogni lezione contiene:
 
 Esempi di progetti:
 - Registro elettronico con studenti, voti e classi
-- Rubrica con contatti, gruppi e ricerche
 - Biblioteca con prestiti, libri e utenti
+- Gestione Lega Fantacalcio
 
 ---
 
@@ -62,7 +62,7 @@ Esempi di progetti:
 ## 📌 Prerequisiti
 
 - Conoscenze base di sintassi Java
-- Uso di un IDE (NetBeans, IntelliJ, Eclipse) o di un ambiente online (Replit, JDoodle)
+- Uso di un IDE (NetBeans, IntelliJ, Eclipse)
 
 ---
 
