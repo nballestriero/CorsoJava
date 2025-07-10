@@ -33,6 +33,12 @@ Il corso prevede ___ Lezioni permettendo quindi un margine per il progetto e il 
 
 | Lezione | Argomento                          | Obiettivi principali |
 |--------|------------------------------------|----------------------|
+| 1      | Analisi del problema              | Scomporre problemi e rappresentare soluzioni |
+| 2      | Pseudocodifica e diagrammi di flusso | Tradurre problemi in passi logici |
+| 3      | Strutture iterative (for, while, do while, for-each)  | Utilizzare cicli per eseguire operazioni ripetute |
+| 7      | Stack e Queue                     | Lavorare con strutture LIFO/FIFO |
+| 8      | Set e Map                         | Usare `HashSet`, `TreeSet`, `HashMap`, `TreeMap` |
+
 | 6      | Array e ArrayList                 | Distinguere tra array statici e dinamici |
 | 7      | Stack e Queue                     | Lavorare con strutture LIFO/FIFO |
 | 8      | Set e Map                         | Usare `HashSet`, `TreeSet`, `HashMap`, `TreeMap` |
