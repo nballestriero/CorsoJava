@@ -3,7 +3,6 @@
  */
 
 package com.ballestriero.corsojava;
-
 /**
  *
  * @author user
@@ -11,6 +10,6 @@ package com.ballestriero.corsojava;
 public class CorsoJava {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+      System.out.println("Ciao");
     }
 }
