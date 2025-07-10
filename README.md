@@ -30,26 +30,32 @@ Il corso prevede ___ Lezioni permettendo quindi un margine per il progetto e il 
 
 ---
 
-### 🔷 Modulo 2 – Strutture Dati e Algoritmi in Java
+## 🔷 Modulo 2 – Strutture Dati e Algoritmi in Java (Aggiornato)
 
 | Lezione | Argomento                          | Obiettivi principali |
-|--------|------------------------------------|----------------------|
-| 1      | Analisi del problema              | Scomporre problemi e rappresentare soluzioni |
-| 2      | Pseudocodifica e diagrammi di flusso | Tradurre problemi in passi logici |
-| 3      | Struttura dati: Array             | Creare array di tipi primitivi |
-| 4      | Strutture iterative (for, while, do while, for-each)  | Confrontare e Utilizzare cicli per eseguire operazioni ripetute |
-| 5      | Strutture iterative ed Array      | Usare le strutture iterative per lavorare con gli array |
-| 6      | ArrayList VS Array                | Conoscere la differenza tra le due strutture dati |
-| 7      | LinkedList VS ArrayList           | Conoscere la differenza tra le due strutture dati |
-| 8      | Stack e LinkedList                | Saper implementare un'interfaccia stack LIFO |
-| 9      | Queue e LinkedList                | Saper implementare una struttura FIFO tramite l’interfaccia Queue e LinkedList |
-| 10     | Interfacce Queue e Deque con LinkedList | Riconoscere l'uso delle interfacce Queue e Deque nell'implementazione delle strutture FIFO e LIFO tramite LinkedList |
-| 11     | Tree con classe nodo              | Saper implementare un albero come classe personalizzata  |
-| 12     | Binary Tree con classe nodo       | Saper modificare l'implementazione precedente per creare un albero binario|
-| 13     | Set (HashSet, TreeSet) | Saper usare le collezioni Set e le loro implementazioni |
-| 14     | Map (HashMap, TreeMap) | Saper usare le collezioni Map e le loro implementazioni |
-| 15     | Classe Object e i metodi equals(), toString(), hashCode() | Comprendere come funzionano questi metodi per confrontare oggetti e usarli in collezioni (Set, Map) |
-| 16     | Progetto Finale                   | Unire OOP + Strutture Dati in un progetto concreto |
+|---------|----------------------------------|---------------------|
+| 1       | Analisi del problema              | Scomporre problemi e rappresentare soluzioni |
+| 2       | Pseudocodifica e diagrammi di flusso | Tradurre problemi in passi logici |
+| 3       | Struttura dati: Array             | Creare e inizializzare array di tipi primitivi |
+| 4       | Strutture iterative (for, while, do while, for-each)  | Confrontare e utilizzare cicli |
+| 5       | Strutture iterative ed Array      | Applicare cicli per lavorare con array |
+| 6       | ArrayList VS Array                | Differenze e vantaggi |
+| 7       | LinkedList VS ArrayList           | Differenze e vantaggi |
+| 8       | Stack e LinkedList                | Implementare stack LIFO |
+| 9       | Queue e LinkedList                | Implementare coda FIFO |
+| 10      | Interfacce Queue e Deque con LinkedList | Uso interfacce per strutture FIFO/LIFO |
+| 11      | Tree con classe nodo              | Implementare albero personalizzato |
+| 12      | Binary Tree con classe nodo       | Implementare albero binario |
+| 13      | Set (HashSet, TreeSet)            | Usare collezioni Set |
+| 14      | Map (HashMap, TreeMap)            | Usare collezioni Map |
+| 15      | Casi d’uso tipici Set             | Quando e perché usare Set |
+| 16      | Casi d’uso tipici Map             | Quando e perché usare Map |
+| 17      | Algoritmi di ordinamento base (bubble, selection, insertion) | Implementare e analizzare semplici algoritmi di ordinamento |
+| 18      | Algoritmi di ricerca (lineare e binaria) | Implementare e confrontare ricerche su array |
+| 19      | Visite su alberi binari          | Implementare preorder, inorder, postorder |
+| 20      | Concetti base di complessità (Big O) | Introdurre notazione Big O con esempi pratici |
+| 21      | Progetto Finale                  | Integrare OOP, strutture dati e algoritmi |
+
 
 ---
 
