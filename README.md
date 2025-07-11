@@ -39,6 +39,7 @@ Studenti del triennio di informatica che devono consolidare le basi della **prog
 | 4       | Strutture iterative (for, while, do while, for-each) | Confrontare e utilizzare cicli |
 | 5       | Strutture iterative ed Array                     | Applicare cicli per lavorare con array |
 | 6       | Ricerca lineare su array                         | Implementare e testare algoritmi di scansione per ricerca sequenziale |
+| 6.1     | Ricerca lineare su Array con dato generico       | Astrarre l'algoritmo dalla struttura dati |
 | 7       | ArrayList VS Array                               | Differenze e vantaggi |
 | 8       | LinkedList VS ArrayList                          | Differenze e vantaggi |
 | 9       | Stack e LinkedList                               | Implementare stack LIFO |
