@@ -2,7 +2,6 @@
 
 ## 👨‍🏫 Destinatari
 Studenti del triennio di informatica che devono consolidare le basi della **programmazione orientata agli oggetti (OOP)** e delle **strutture dati e algoritmi in Java**.
-Il corso prevede ___ Lezioni permettendo quindi un margine per il progetto e il recupero considerata la stima generale di 33 settimane per anno scolastico.
 
 ---
 
@@ -30,7 +29,7 @@ Il corso prevede ___ Lezioni permettendo quindi un margine per il progetto e il 
 
 ---
 
-## 🔷 Modulo 2 – Strutture Dati e Algoritmi in Java (Aggiornato)
+### 🔷 Modulo 2 – Strutture Dati e Algoritmi in Java (Aggiornato)
 
 | Lezione | Argomento                                         | Obiettivi principali |
 |---------|--------------------------------------------------|----------------------|
@@ -70,12 +69,12 @@ Ogni lezione contiene:
 
 ---
 
-## 🧪 Progetto Finale (Lezione 10)
-
-Esempi di progetti:
-- Registro elettronico con studenti, voti e classi
-- Biblioteca con prestiti, libri e utenti
-- Gestione Lega Fantacalcio
+## ♿ Inclusione
+- Testi scritti in **font SansSerif (es. OpenDyslexic o Arial)** per studenti con DSA (F81.0)
+- Pubblicazione anticipata di obiettivi e consegne su GitHub in formato `.md`
+- Utilizzo del plugin **Read Aloud** per la lettura vocale dei testi (formato dei materiali scritti compatibile)
+- Suddivisione dell’attività in passi espliciti, con esempi commentati
+- Test di accessibilita'  WCAG(Web Content Accessibility Guidelines), ADA(American Disability Act) con tool accessibility checker.
 
 ---
 
@@ -84,13 +83,6 @@ Esempi di progetti:
 - Ogni lezione è indipendente ma propedeutica alla successiva
 - Puoi usarlo come base per verifiche di recupero, compiti o ripassi estivi
 - Adatto anche per preparare test d'ingresso e colloqui tecnici base
-
----
-
-## 📌 Prerequisiti
-
-- Conoscenze base di sintassi Java
-- Uso di un IDE (NetBeans, IntelliJ, Eclipse)
 
 ---
 
@@ -105,6 +97,6 @@ Esempi di progetti:
 ## ✍️ Autore
 
 Corso realizzato per attività di recupero e potenziamento didattico – **Scuola secondaria di secondo grado – Informatica**  
-Docente: _[NICOLO' BALLESTRIERO]_
+Docente: _[NICOLO' BALLESTRIERO (Dottore in Sicurezza dei Sitemi e delle Reti Informatiche)]_
 
 ---
