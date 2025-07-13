@@ -4,11 +4,6 @@
 ## 📌 Collocazione all'interno di una Unità Didattica
 Modulo: **Strutture Dati e Algoritmi in Java**   
 
-## ?🏫 Contesto classe
-- Classe: 4ª Informatica (Istituto Tecnico – Indirizzo Informatica e Telecomunicazioni)
-- Numero studenti: 20
-- Due studenti con DSA (disturbo specifico dell’apprendimento, cod. F81.0)
-
 ## 📚 Riferimenti ai documenti ministeriali
 **Linee guida 2012 – Istituti Tecnici, Indirizzo Informatica e Telecomunicazioni (articolazione Informatica):**
 
