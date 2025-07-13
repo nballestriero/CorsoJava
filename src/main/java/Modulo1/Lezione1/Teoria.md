@@ -79,7 +79,7 @@ Permettono di rappresentare **numeri decimali**:
 
 ```java
 public class TipiPrimitivi {
-    public static void main(String[] args) {
+    public void stampa() {
         byte eta = 16;
         int studenti = 20;
         double media = 7.5;
