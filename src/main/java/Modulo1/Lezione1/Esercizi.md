@@ -1,4 +1,3 @@
----
 
 Esercizio 1 – Dichiarazione e stampa
 
