@@ -1,5 +1,5 @@
 
-Esercizio 1 – Dichiarazione e stampa
+## 🧪 Esercizio 1 – Dichiarazione e stampa
 
 **Obiettivo**: Dichiarare variabili di tipo primitivo e stampare i valori in output.
 
