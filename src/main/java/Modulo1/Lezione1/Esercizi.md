@@ -1,4 +1,33 @@
+---
 
+Esercizio 1 – Dichiarazione e stampa
+
+**Obiettivo**: Dichiarare variabili di tipo primitivo e stampare i valori in output.
+
+**Consegna**:
+
+1. All'interno di una classe chiamata `Esercizio1`, dichiara le seguenti variabili:
+
+   * `int studenti = 25;`
+   * `double media = 7.8;`
+   * `boolean promosso = true;`
+   * `char voto = 'B';`
+   * `byte eta = 17;`
+   * `float altezza = 1.75f;`
+2. Crea un metodo `stampaVariabili()` (non statico) che stampi ciascuna variabile su una riga diversa, nel formato:
+
+   ```
+   Studenti: 25
+   Media: 7.8
+   Promosso: true
+   Voto: B
+   Età: 17
+   Altezza: 1.75
+   ```
+
+**Test JUnit**: Verifica che tutte le righe siano presenti nell'output del metodo.
+
+---
 
 ## 🔄 Esercizio 2 – Conversioni tra tipi
 
