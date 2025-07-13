@@ -1,3 +1,5 @@
+package Modulo2.Lezione6;
+
 import Modulo2.Lezione6.RicercaLineare;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;

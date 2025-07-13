@@ -1,5 +1,5 @@
 
-package Modeulo2.Lezione6;
+package Modulo2.Lezione6;
 
 import Modulo2.Lezione6.RicercaLineareNomi;
 import static org.junit.jupiter.api.Assertions.*;
