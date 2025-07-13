@@ -30,9 +30,8 @@ Modulo: **Fondamenti della Programmazione in Java**
 - **Didattica inclusiva**: uso di IDE con supporto per la lettura del codice, font ad alta leggibilità e spiegazioni visuali.
 
 ## 🛠️ Risorse didattiche
-- IDE Java (NetBeans, Eclipse, IntelliJ)
+- IDE Java (NetBeans)
 - Computer con ambiente Java configurato (JDK)
-- Editor online alternativo (es. Replit) per accesso rapido
 - Dispensa sintetica con tabella dei tipi primitivi
 - Lettore vocale (plugin Read Aloud) per accessibilità
 
@@ -51,7 +50,7 @@ Modulo: **Fondamenti della Programmazione in Java**
 - Osservazione durante le attività pratiche
 - Correzione degli esercizi in tempo reale
 - Domande di verifica orale (es. “Quando si usa `double` e non `float`?”)
-- Consegna facoltativa del codice via GitHub Classroom
+- Consegna del codice via GitHub Classroom
 
 ## 📚 Bibliografia e sitografia
 - Linee guida per l’istruzione tecnica – MIUR 2012
