@@ -15,10 +15,9 @@ Modulo: **Fondamenti di programmazione Java – Input e Strutture di Controllo**
 - Comprensione della sintassi Java per blocchi e istruzioni
 
 ## 🎯 Obiettivi specifici di apprendimento (Tassonomia di Bloom)
-1. **Comprendere**: la struttura e la logica delle istruzioni `if`, `if-else`, `if-else if`
-2. **Applicare**: scrivere semplici programmi che reagiscono diversamente in base all'input
-3. **Analizzare**: distinguere i casi in cui è necessario l’uso di condizioni multiple
-4. **Valutare**: la correttezza dell’input e reagire in modo adeguato tramite logica condizionale
+1. **Comprendere**: Saper individuare nel codice la struttura e la logica delle istruzioni `if`, `if-else`, `if-else if` e prevederne il risultato.
+2. **Applicare**: Saper scrivere semplici programmi che reagiscono diversamente in base all'input.
+3. **Analizzare**: Saper distinguere i casi in cui è necessario l’uso di condizioni multiple.
 
 ## 🧩 Approcci metodologici e strategie didattiche
 - **Coding guidato**: esempi semplici costruiti insieme, con input simulato
@@ -27,10 +26,9 @@ Modulo: **Fondamenti di programmazione Java – Input e Strutture di Controllo**
 - **Feedback immediato**: osservazione e correzione in tempo reale durante il laboratorio
 
 ## 🛠️ Risorse didattiche
-- IDE Java (NetBeans, Eclipse o simili)
-- Terminale o console integrata
+- IDE Java (NetBeans)
 - Dispensa con schemi `if`, `if-else`, `if-else if`
-- Esempi disponibili su GitHub Classroom o Google Drive
+- Esempi disponibili su GitHub
 
 ## 🗂️ Micro-planning
 
@@ -46,7 +44,6 @@ Modulo: **Fondamenti di programmazione Java – Input e Strutture di Controllo**
 - Osservazione del processo di debugging
 - Consegna del codice e correzione in aula
 - Feedback tra pari su codice funzionante/non funzionante
-- Eventuale mini-quiz (es. Google Moduli)
 
 ## 📚 Bibliografia e sitografia
 - Horstmann, C. – *Big Java: Early Objects*, Wiley
