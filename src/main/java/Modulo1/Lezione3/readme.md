@@ -1,7 +1,7 @@
 # Lezione – Strutture di controllo `if` in Java
 
 ## 📌 Collocazione all'interno di una Unità Didattica
-Modulo: **Fondamenti di programmazione Java – Input e Strutture di Controllo**
+Modulo: **Modulo 0 Lezione 3**
 
 ## 📚 Riferimenti ai documenti ministeriali
 **Linee guida 2012 – Istituti Tecnici, Indirizzo Informatica e Telecomunicazioni (articolazione Informatica):**
