@@ -21,7 +21,7 @@ Modulo: **Modulo 0  Lezione 1**
 1. **Conoscere**: Saper elencare i tipi primitivi disponibili in Java.
 2. **Comprendere**: Saper descrivere il significato, lo scopo e l’intervallo di valori di ciascun tipo.
 3. **Applicare**: Saper dichiarare, inizializzare e utilizzare variabili di tipo primitivo in semplici espressioni.
-4. **Analizzare** Saper distinguere tra i vari tipi primitivi e scegliere il più adatto in base al contesto.
+4. **Analizzare**: Saper distinguere tra i vari tipi primitivi e scegliere il più adatto in base al contesto.
 
 ## 🧩 Approcci metodologici e strategie di insegnamento-apprendimento
 - **Lezione frontale interattiva**: introduzione dei concetti teorici con esempi dal vivo.
