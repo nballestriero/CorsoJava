@@ -1,7 +1,7 @@
-# Lezione 1 – Tipi primitivi in Java
+# Tipi primitivi in Java
 
 ## 📌 Collocazione all'interno di una Unità Didattica
-Modulo: **Fondamenti della Programmazione in Java**
+Modulo: **Modulo 0  Lezione 1**
 
 ## 📚 Riferimenti ai documenti ministeriali
 **Linee guida 2012 – Istituti Tecnici, Indirizzo Informatica e Telecomunicazioni (articolazione Informatica):**
