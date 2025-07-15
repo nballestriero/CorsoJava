@@ -1,8 +1,8 @@
-# Lezione – Input da tastiera con la classe Scanner
+# Input da tastiera con la classe Scanner
 
 ## 📌 Collocazione all'interno di una Unità Didattica
 
-Modulo: **Fondamenti di Java – Tipi, Variabili e Input/Output**
+Modulo: **Modulo 0 Lezione 1**
 
 ## 📚 Riferimenti ai documenti ministeriali
 
