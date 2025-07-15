@@ -19,10 +19,10 @@ Modulo: **Fondamenti di programmazione Java – Cicli e validazione degli input*
 
 ## 🎯 Obiettivi specifici di apprendimento (Tassonomia di Bloom)
 
-1. **Comprendere**:Saper spiegare il funzionamento del ciclo `do-while` per la gestione dell’input
+1. **Comprendere**: Saper spiegare il funzionamento del ciclo `do-while` per la gestione dell’input
 2. **Applicare**: Saper scrivere scrivere programmi che validano input finché non è corretto
 3. **Analizzare**: Saper distinguere tra input accettabili e non accettabili
-4. **Valutare**: sapere come  e quando usare il `do-while` per prevenire errori di input
+4. **Valutare**: Sapere come  e quando usare il `do-while` per prevenire errori di input
 
 ## 🧩 Approcci metodologici e strategie didattiche
 
