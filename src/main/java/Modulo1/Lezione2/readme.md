@@ -24,10 +24,10 @@ Modulo: **Modulo 0 Lezione 2**
 
 (Secondo la tassonomia di Bloom)
 
-1. **Conoscere** (`Remember`): Saper descrivere cosa fa la classe `Scanner`, come si importa e si usa.
-2. **Comprendere** (`Understand`): Saper riconoscere l'utilizzo differente tra i metodi `next()`, `nextLine()`, `nextInt()` ecc.
-3. **Applicare** (`Apply`): Saper scrivere programmi che leggano correttamente i dati da input dell’utente utilizzando i metodi studiati.
-4. **Analizzare** (`Analyze`): Saper individuare e scrivere casi di test utili a individuare errori nella lettura dell'input
+1. **Conoscere**: Saper descrivere cosa fa la classe `Scanner`, come si importa e si usa.
+2. **Comprendere**: Saper riconoscere l'utilizzo differente tra i metodi `next()`, `nextLine()`, `nextInt()` ecc.
+3. **Applicare**: Saper scrivere programmi che leggano correttamente i dati da input dell’utente utilizzando i metodi studiati.
+4. **Analizzare**: Saper individuare e scrivere casi di test utili a individuare errori nella lettura dell'input
 
 ## 🧩 Approcci metodologici e strategie didattiche
 
