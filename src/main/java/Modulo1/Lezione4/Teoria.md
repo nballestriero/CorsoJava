@@ -1,4 +1,4 @@
-# Lezione teorica – Il ciclo `do-while` per il controllo dell'input
+# Il ciclo `do-while` per il controllo dell'input
 
 ## 🔍 Introduzione
 
