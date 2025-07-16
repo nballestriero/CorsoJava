@@ -1,4 +1,4 @@
-# Lezione – Strutture di controllo `if` in Java
+# Strutture di controllo `if` in Java
 
 ## 📌 Collocazione all'interno di una Unità Didattica
 Modulo: **Modulo 0 Lezione 3**
