@@ -1,5 +1,5 @@
 
-# Lezione: Casting dei Tipi Base in Java
+# Approfondimento: Casting dei Tipi Base in Java
 
 ## Cos'è il Casting?
 
