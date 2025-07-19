@@ -1,4 +1,4 @@
-# Lezione 5 – Introduzione agli array
+# Introduzione agli array
 
 ## 📌 Collocazione all'interno di una Unità Didattica
 
