@@ -1,4 +1,4 @@
-# Lezione – Il ciclo `do-while` per il controllo dell’input
+# Il ciclo `do-while` per il controllo dell’input
 
 ## 📌 Collocazione all'interno di una Unità Didattica
 
