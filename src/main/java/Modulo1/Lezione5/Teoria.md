@@ -1,5 +1,5 @@
 
-# Teoria: Introduzione agli array in Java
+# Introduzione agli array in Java
 
 ## 🔍 Perché servono gli array?
 
