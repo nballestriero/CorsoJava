@@ -1,4 +1,4 @@
-# Lezione completa – Strutture di controllo `if` in Java
+# Strutture di controllo `if` in Java
 
 ## 🔍 Introduzione
 
