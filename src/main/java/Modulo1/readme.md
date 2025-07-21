@@ -1,62 +1,69 @@
-# Lezione 5 – Introduzione agli array
+# ✅ Modulo 1 – Fondamenti di programmazione in Java
 
-## 📌 Collocazione all'interno di una Unità Didattica
+## 📘 Introduzione
 
-Modulo: **Strutture Dati di Base in Java**
+Il primo modulo ha l'obiettivo di introdurre le basi della programmazione in Java attraverso un approccio laboratoriale e incrementale. Gli studenti hanno acquisito dimestichezza con i concetti fondamentali del linguaggio, strutture di controllo, input/output, array e primi elementi di progettazione algoritmica.
 
-## 📚 Riferimenti ai documenti ministeriali
+---
 
-**Linee guida 2012 – Istituti Tecnici, Indirizzo Informatica e Telecomunicazioni (articolazione Informatica):**
+## 📚 Lezioni affrontate
 
-* “Utilizzare linguaggi di programmazione per realizzare algoritmi”
-* “Utilizzare ambienti di sviluppo per la produzione del software”
-* “Utilizzare strutture dati statiche e dinamiche”
+### 🧱 Lezione 1 – Tipi primitivi
 
-## 🧠 Prerequisiti
+* Tipi di base: `int`, `double`, `char`, `boolean`, `byte`
+* Dichiarazione e inizializzazione di variabili
+* Output con `System.out.println()`
+* Esercizi con metodi **non statici** e test **JUnit**
 
-* Dichiarazione e uso di variabili primitive (int, double, etc.)
-* Acquisizione di input con la classe `Scanner`
-* Strutture condizionali (`if`) e iterative (`do-while`)
+---
 
-## 🎯 Obiettivi specifici di apprendimento (Tassonomia di Bloom)
+### ⌨️ Lezione 2 – Input con Scanner
 
-1. **Comprendere** il concetto di struttura dati omogenea
-2. **Applicare** la sintassi per dichiarare, inizializzare e accedere a un array
-3. **Analizzare** la rappresentazione in memoria degli array (heap e riferimenti)
-4. **Valutare** i vantaggi dell’uso degli array rispetto a più variabili isolate
+* Uso della classe `Scanner`
+* Metodi: `nextLine()`, `nextInt()`, `nextDouble()`, `nextBoolean()`
+* Simulazione dell’input nei test JUnit (`System.setIn()`)
 
-## 🧩 Approcci metodologici e strategie didattiche
+---
 
-* **Lezione frontale attiva**: esposizione con esempi pratici al PC
-* **Coding guidato**: costruzione passo passo di un programma che usa array
-* **Lavoro cooperativo**: esercizi in coppia per consolidare sintassi e logica
-* **Domande stimolo**: confronto tra dichiarazione di 5 variabili vs 1 array
+### ⚙️ Lezione 3 – Strutture di controllo: `if`
 
-## 🛠️ Risorse didattiche
+* Uso del costrutto `if`, `if-else`
+* Controllo dell’input utente
+* Schema testuale del flusso
+* Esempi con input e test JUnit
 
-* IDE Java (NetBeans)
-* Esempi disponibili su GitHub (repository docente/classe)
-* Diapositive o lavagna digitale per rappresentare lo stack e lo heap
+---
 
-## 🗂️ Micro-planning
+### 🔁 Lezione 4 – Ciclo `do-while`
 
-| Fase                      | Cosa fa il docente                                                 | Cosa fanno gli studenti                         | Tempo  |
-| ------------------------- | ------------------------------------------------------------------ | ----------------------------------------------- | ------ |
-| 1. Introduzione           | Presenta il problema del trattamento di dati multipli              | Riflettono su casi concreti (es. voti studenti) | 5 min  |
-| 2. Spiegazione teorica    | Introduce gli array, sintassi, e modello memoria heap              | Prendono appunti e fanno domande                | 15 min |
-| 3. Coding guidato         | Costruisce un programma che legge e stampa un array con `do-while` | Seguono e provano sul proprio IDE               | 15 min |
-| 4. Attività laboratoriale | Assegna esercizio individuale sugli array con validazione `if`     | Scrivono e testano in autonomia o in coppia     | 20 min |
-| 5. Discussione finale     | Rivede soluzioni e differenze di approccio                         | Confrontano il proprio codice                   | 5 min  |
+* Ciclo post-condizionale per input ripetuto
+* Validazione dell’input
+* Differenze con il semplice `if`
+* Esempi applicativi + test JUnit
 
-## 📊 Valutazione formativa
+---
 
-* Osservazione in laboratorio
-* Codice prodotto dagli studenti
-* Discussione guidata e domande a risposta aperta
+### 📦 Lezione 5 – Introduzione agli Array
 
-## 📚 Bibliografia e sitografia
+* Gestione di insiemi di dati omogenei
+* Dichiarazione e allocazione: `new int[n]`
+* **Gestione della memoria**: Stack vs Heap
+* Diagramma esplicativo e schema testuale
+* Lettura e stampa di array con `do-while`
+* Esempio pratico + test JUnit
 
-* Horstmann, C. – *Big Java: Early Objects*, Wiley
-* Deitel & Deitel – *Java: How to Program*, Pearson
-* Oracle Java Docs – [https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/arrays.html)
+---
 
+### 🔄 Lezione 6 – Ciclo `for-each` su array
+
+* Uso del ciclo `for-each` per scansionare array
+* Alternativa semplificata all’uso dell’indice
+* Schema testuale del comportamento
+* Esercizi guidati con: stampa, somma, conteggio, media, min/max
+* Tutti i programmi con metodi **non statici** e test **JUnit**
+
+---
+
+## ✅ Conclusione
+
+Questo modulo pone le fondamenta per la scrittura di codice leggibile, testabile e organizzato. Gli studenti hanno appreso la logica algoritmica di base e l’hanno applicata in ambienti reali con feedback immediato, preparando il terreno per l’introduzione alla programmazione orientata agli oggetti (modulo successivo).
